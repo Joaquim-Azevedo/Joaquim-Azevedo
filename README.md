@@ -2,7 +2,7 @@
 
 **Desenvolvedor de Software**
 
-Sou um desenvolvedor com foco em criar soluções funcionais, organizadas e de fácil manutenção. Tenho experiência com **Java**, **Spring Boot**, **HTML**, **JavaScript** e estou constantemente aprendendo novas tecnologias. Gosto de desafios técnicos, busco escrever código limpo e valorizo boas práticas no desenvolvimento.
+Sou um desenvolvedor com foco em criar soluções funcionais, organizadas e de fácil manutenção. Tenho experiência com **Java**, **Spring Boot**, **JavaScript** e estou constantemente aprendendo novas tecnologias. Gosto de desafios técnicos, busco escrever código limpo e valorizo boas práticas no desenvolvimento.
 
 ---
 
